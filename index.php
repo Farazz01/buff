@@ -1,5 +1,5 @@
 <?php
 
-include_once("Buff Portal.html");
+include_once("index.html");
 
 ?>
